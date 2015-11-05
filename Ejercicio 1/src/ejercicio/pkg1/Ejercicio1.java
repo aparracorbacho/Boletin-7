@@ -24,6 +24,8 @@ public class Ejercicio1 {
         num1 = num1Teclado.nextFloat();
         if (num1>0) { 
             System.out.println("O numero é positivo, é o: "+num1);
+        } else {
+            System.out.println("O numero é negativo, é o: "+num1);
         }
               
              
