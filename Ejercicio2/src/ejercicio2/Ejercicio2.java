@@ -28,6 +28,7 @@ public class Ejercicio2 {
         num2 = num2Teclado.nextShort();
         if (num1>=num2) {
             System.out.println("A resta dos numeros é "+(num1-num2));
+            System.out.println("A suma dos numeros é "+(num1+num2));
         } else {
             System.out.println("A suma dos numeros é "+(num1+num2));
         }
