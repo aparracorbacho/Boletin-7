@@ -23,7 +23,7 @@ public class Boletin7_6 {
         Scanner num1Teclado = new Scanner(System.in);
         num1 = num1Teclado.nextFloat();
         
-        System.out.println("Introduce el nombre de la primera persona");
+        System.out.println("Introduce el nombre del articulo");
         Scanner nome1Teclado = new Scanner(System.in);
         String nome1 = nome1Teclado.next();
         
